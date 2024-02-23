@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "354e6d4a7c88e5b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5157871ef44ddcb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0ab48fd001587be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Fundamentals of Networking/OSI Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c046315efa7928a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9eb3301c21e8b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec09f7813f015e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ed3f25e9d3876ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc30bab231ffac5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be2a95aa95cb1206",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d13c69a387ae9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ed3f5355ffba24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Fundamentals of Networking/OSI Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3e0e8096edee738",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Fundamentals of Networking/OSI Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd5a1b47c5d51363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14534868e7605450",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Fundamentals of Networking/OSI Model.md"
+              }
+            }
+          },
+          {
+            "id": "8ebd9375d8d80168",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0ab48fd001587be",
+  "lastOpenFiles": [
+    "Dictionary.md",
+    "1. Fundamentals of Networking/OSI Model.md",
+    "().md",
+    "Dictionary.md^Agnostic.md",
+    "1. Fundamentals of Networking/Client-Server Architecture.md",
+    "1. Fundamentals of Networking"
+  ]
+}

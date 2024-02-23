@@ -1,0 +1,1 @@
+- As a rule of thumb anything you call from `Cypress` affects global state. Anything you call from `cy` affects local state.

@@ -1,0 +1,339 @@
+{
+  "main": {
+    "id": "6d237bae9d3994c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "325c3173df3d037f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0204f02bb35242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e5160975aa4d109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b25079d3e31105d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd9c4230422dafad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9fe63a0709109ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django/MVT Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6628610d2963166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3174debb06ff27ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Web Technologies/XML/XPath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99f434746bfe88bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ddb8ea41e2819d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/Python/Concurrency in Python/Concurrency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a3d9c2391aee7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/JavaScript and NodeJS/Basic JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d25280271ffe0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Version Control System/Git/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b46094641b86488",
+    "type": "split",
+    "children": [
+      {
+        "id": "4307d33e1bf187dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "002754f909b6b1ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aaf178088ac291dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24924fa91a0984e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5026054382324
+  },
+  "right": {
+    "id": "df01916b0714b018",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d6fe159c8bae75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f12d80f5f7844afa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/JavaScript and NodeJS/Basic JavaScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f8a8af283633dc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/JavaScript and NodeJS/Basic JavaScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79af68a460bef1c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d9e560c5bf71c81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/JavaScript and NodeJS/Basic JavaScript.md"
+              }
+            }
+          },
+          {
+            "id": "3a4f2650290fc9ba",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e67c32c9d991268c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "24a3d9c2391aee7b",
+  "lastOpenFiles": [
+    "Technical Documentation/Programming Languages/JavaScript and NodeJS/README.md",
+    "Technical Documentation/Programming Languages/JavaScript and NodeJS/Basic JavaScript.md",
+    "Technical Documentation/Version Control System/Git/Git.md",
+    "Technical Documentation/Version Control System/Git/README.md",
+    "Technical Documentation/Programming Languages/JavaScript and NodeJS/this.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/Concurrency.md",
+    "Technical Documentation/QA and Testing/QA/Cypress/NOTES.md",
+    "Technical Documentation/Documentation Generator/docsify/README.md",
+    "Technical Documentation/Documentation Generator/docsify",
+    "Technical Documentation/Documentation Generator",
+    "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
+    "Technical Documentation/Programming Languages/TypeScript/assets",
+    "Technical Documentation/Programming Languages/TypeScript/README.md",
+    "Technical Documentation/Programming Languages/TypeScript/What is TypeScript?.md",
+    "Technical Documentation/Programming Languages/TypeScript/Types in TypeScript.md",
+    "Technical Documentation/CS Fundamentals/OS/CPU Scheduling Basics.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django REST Framework/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/README.md",
+    "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
+    "What.md",
+    "Technical Documentation/Programming Languages/TypeScript",
+    "Technical Documentation/Version Control System/Git",
+    "Technical Documentation/Version Control System",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django/MVT Design Pattern.md",
+    "Important Problems Vault/Python/README.md",
+    "Kanban/MISSION CONTROL BOARD.md",
+    "Technical Documentation/Cloud Computing/Service Providers/AWS/SQS/What is Amazon SQS.md",
+    "Kanban/Learning/Data Structures and Algorithms/DATA STRUCTURES KANBAN.md",
+    "Technical Documentation/Cloud Computing/Service Providers/AWS/SQS/README.md",
+    "Technical Documentation/Cloud Computing/Service Providers/AWS/SQS/assets/images/sqs_core_concept.png",
+    "Technical Documentation/Cloud Computing/Service Providers/AWS/SQS/assets/images",
+    "Technical Documentation/Cloud Computing/Service Providers/AWS/SQS/assets/Untitled.md",
+    "Technical Documentation/Cloud Computing/Service Providers/AWS/SQS/assets",
+    "Important Problems Vault/JS, TS and NodeJS",
+    "Important Problems Vault/Python",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/cpu_bound_workloads_in_python_multiprocessing.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/cpu_bound_workloads_threading.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/workloads.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/another_approach_to_multitasking.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/gil.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/multitasking.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/scheduling.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/threads.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/processes.png",
+    "Tracking Boards/Untitled.canvas"
+  ]
+}
