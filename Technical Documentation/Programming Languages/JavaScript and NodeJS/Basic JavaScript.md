@@ -243,3 +243,8 @@ The only exception is that you can call the `window.print()` method in the bro
 - When separated by semicolons, multiple statements on one line are allowed:
 `a = 5; b = 6; c = a + b;`
 - JavaScript statements can be grouped together in code blocks, inside curly brackets {...}.
+## let
+- The `let` keyword was introduced in ES6 (2015)
+- Variables declared with let have Block Scope
+- Variables declared with let must be Declared before use
+- Variables declared with let cannot be Redeclared in the same scope
